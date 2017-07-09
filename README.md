@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: 说明文档
 catagory: 分类
