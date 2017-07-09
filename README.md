@@ -1,3 +1,12 @@
+﻿---
+layout: post
+title: 说明文档
+catagory: 分类
+tags: [Git,InitDev]
+keywords: markdown
+destription: 
+---
+
 Mypbodq InitDev
 ===
 
